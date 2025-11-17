@@ -1,0 +1,14 @@
+/* Tailwind CSS Base
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f9;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+} */
